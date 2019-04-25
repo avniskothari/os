@@ -1,4 +1,4 @@
-/* OS project */
+/* FINAL  OS project */
 #include<stdio.h>
 int arrival_time1[30],arrival_time2[30],priority2[30],process2[30],arrival_time3[30];
 int burst_time1[30],burst_time2[30],burst_time3[30];
